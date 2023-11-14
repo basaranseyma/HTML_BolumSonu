@@ -1,13 +1,14 @@
-# Patika HTML Dersi - Bölüm Sonu Çalışması
-Hocamızın derste "Bölüm Sonu Çalışması" kısmında anlattıklarını uygulamak için bu çalışmayı hazırladım. 
+# Patika HTML Course - End-of-Section Project
+I prepared this project to implement what our instructor covered in the 'End-of-Section Exercise' part of the class.
 
-Projemiz;
+The project includes three different pages:
 
- * ana sayfa 
- * hakkımızda 
- * iletişim 
+ * home 
+ * about us 
+ * contact 
  
-olmak üzere üç farklı sayfa içeriyor. Tüm sayfaların altında ve üstünde, bu sayfalara ulaşabilmeniz için bağlantılar yer almakta. 
+There are links both above and below all pages to navigate to these sections.
 
-Örnek bir ekran görüntüsü: 
-![image](https://github.com/basaranseyma/HTML_BolumSonu/assets/128006262/817fa6e8-8426-4c39-a7fe-7a500f7a1d25)
+The appearance of the website I created is shown below: 
+
+![appearance of the website](img/HTML_BolumSonu_GIF.gif)
